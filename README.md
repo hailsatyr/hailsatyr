@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hailsatyr
-- 👀 I’m interested in music and IT. 
+- 👀 I’m interested in music, videogames and IT. 
 - 🌱 I’m currently learning docker and k8s.
 
 
